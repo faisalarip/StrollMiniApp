@@ -1,0 +1,80 @@
+{
+  "source": "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Views/InteractiveSearchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search users...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Actions",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Featured",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 213
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Activity",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ viewed your profile",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "2 minutes ago",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 462
+        }
+      }
+    ]
+  },
+  "version": 1
+}

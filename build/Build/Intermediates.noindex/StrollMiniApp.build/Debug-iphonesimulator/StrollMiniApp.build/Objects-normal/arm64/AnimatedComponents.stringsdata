@@ -1,0 +1,16 @@
+{
+  "source": "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Views/AnimatedComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@, %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 83
+        }
+      }
+    ]
+  },
+  "version": 1
+}

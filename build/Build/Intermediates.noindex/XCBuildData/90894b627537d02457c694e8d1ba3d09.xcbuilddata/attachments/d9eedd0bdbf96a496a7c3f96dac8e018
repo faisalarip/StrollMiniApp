@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniApp-master.dia",
+    "emit-module-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniApp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniApp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniApp-master.swiftdeps"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/ContentView.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Extensions/DateFormatter+Extensions.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/DateFormatter+Extensions~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Models/ChatMessage.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/ChatMessage~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Models/User.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Services/NetworkService.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/NetworkService~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/StrollMiniAppApp.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollMiniAppApp~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/ViewModels/StrollViewModel.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/StrollViewModel~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Views/AnimatedComponents.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/AnimatedComponents~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/Views/InteractiveSearchView.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/InteractiveSearchView~partial.swiftmodule"
+  },
+  "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/bytedance/Documents/projects/StrollMiniApp/build/Build/Intermediates.noindex/StrollMiniApp.build/Debug-iphonesimulator/StrollMiniApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

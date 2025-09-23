@@ -1,0 +1,104 @@
+{
+  "source": "/Users/bytedance/Documents/projects/StrollMiniApp/StrollMiniApp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Something went wrong",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Make your move, they are waiting ✨",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Turn",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 124
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "A",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@, %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "They made a move!",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "The ice is broken. Time to hit it off",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 329
+        }
+      },
+      {
+        "comment": "",
+        "key": "2",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 433
+        }
+      },
+      {
+        "comment": "",
+        "key": "New chat",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last seen %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 419
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 550
+        }
+      }
+    ]
+  },
+  "version": 1
+}
