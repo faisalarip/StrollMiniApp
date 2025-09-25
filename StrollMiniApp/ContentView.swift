@@ -10,56 +10,52 @@ import Combine
 import Foundation
 
 struct ContentView: View {
-    @StateObject private var viewModel = StrollViewModel()
-    @State private var selectedTab = 0
-    
     var body: some View {
-        NavigationView {
-            ZStack {
-                // Background gradient
-                LinearGradient(
-                    gradient: Gradient(colors: [
-                        Color.black,
-                        Color(red: 0.1, green: 0.1, blue: 0.2)
-                    ]),
-                    startPoint: .top,
-                    endPoint: .bottom
-                )
-                .ignoresSafeArea()
-                
-                ScrollView {
-                    VStack(spacing: 0) {
-                        HeaderView(viewModel: viewModel)
-                        
-                        if viewModel.isLoading {
-                            LoadingView()
-                        } else if let errorMessage = viewModel.errorMessage {
-                            ErrorView(
-                                message: errorMessage,
-                                onRetry: {
-                                    viewModel.errorMessage = nil
-                                    viewModel.refreshUsers()
-                                }
-                            )
-                        } else {
-                            MainContentView(viewModel: viewModel)
-                        }
-                        
-                        Spacer()
-                        
-//                        BottomTabBar(viewModel: viewModel, selectedTab: $selectedTab)
-                    }
+        AdvancedTabBarController(
+            tabs: [
+                EnhancedTabItem(
+                    title: "Home",
+                    icon: "house",
+                    selectedIcon: "house.fill",
+                    accessibilityLabel: "Home Tab"
+                ) {
+                    HomeTabView()
+                },
+                EnhancedTabItem(
+                    title: "Search",
+                    icon: "magnifyingglass",
+                    accessibilityLabel: "Search Tab"
+                ) {
+                    SearchTabView()
+                },
+                EnhancedTabItem(
+                    title: "Messages",
+                    icon: "message",
+                    selectedIcon: "message.fill",
+                    accessibilityLabel: "Messages Tab"
+                ) {
+                    ChatViewTab()
+                },
+                EnhancedTabItem(
+                    title: "Profile",
+                    icon: "person",
+                    selectedIcon: "person.fill",
+                    accessibilityLabel: "Profile Tab"
+                ) {
+                    ProfileTabView()
                 }
-            }
+            ],
+            appearance: AdvancedTabBarAppearance(
+                selectedColor: .blue,
+                blurEffect: true,
+                hapticFeedback: true,
+                iconSize: 22,
+                titleSize: 10
+            )
+        ) { tabIndex in
+            print("Switched to tab: \(tabIndex)")
         }
-        .navigationBarHidden(true)
-        .onReceive(viewModel.connectionStatusPublisher) { status in
-            if status == .disconnected {
-                DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
-                    viewModel.reconnectRealtime()
-                }
-            }
-        }
+        .ignoresSafeArea()
     }
 }
 
@@ -129,22 +125,6 @@ struct HeaderView: View {
                 
                 // Profile avatar with online indicator
                 ZStack(alignment: .bottomTrailing) {
-//                    Circle()
-//                        .fill(LinearGradient(
-//                            gradient: Gradient(colors: [Color.orange, Color.pink]),
-//                            startPoint: .topLeading,
-//                            endPoint: .bottomTrailing
-//                        ))
-//                        .frame(width: 50, height: 50)
-//                        .overlay(
-//                            Text("A")
-//                                .font(.title2)
-//                                .fontWeight(.bold)
-//                                .foregroundColor(.white)
-//                        )
-//                    
-//                    PulsingCircle(color: .green, size: 12)
-//                        .offset(x: 2, y: 2)
                     CircularProgressImageView()
                         .frame(width: 56, height: 56)
                 }
@@ -242,7 +222,8 @@ struct ChatSectionView: View {
             
             // Chat subtitle
             Text("The ice is broken. Time to hit it off")
-                .font(Font.system(size: 12, weight: .light, design: .serif))
+                .font(Font.system(size: 12, weight: .medium, design: .serif))
+                .italic()
                 .foregroundColor(.gray)
                 .padding(.horizontal, 20)
             
@@ -400,6 +381,6 @@ extension Color {
 }
 
 #Preview {
-    UserCardView(user: .sampleUsers.first!, viewModel: StrollViewModel())
+    ContentView()
 }
 
