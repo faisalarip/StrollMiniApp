@@ -45,6 +45,8 @@ struct ChatViewTab: View {
                         Spacer()
                     }
                 }
+                .safeAreaPadding(.bottom)
+                .padding(.bottom)
             }
         }
         .navigationBarHidden(true)
